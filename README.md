@@ -4,6 +4,9 @@ I want the image to be 64x64 without transparency around and with content center
 # What I get
 A 64x64 images, without any zone cropped
 
+# Reproduce
+`node index.js`
+
 # Output
 ```js
 { topCrop:
